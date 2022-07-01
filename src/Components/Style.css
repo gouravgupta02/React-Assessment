@@ -1,0 +1,16 @@
+.box{
+    /* background-color: brown; */
+    display: flex;
+    justify-content: space-between;
+    
+  }
+.table{
+    height: 250px;
+    width: 120px;
+    background-color: aqua;
+    border: 2px solid black;
+}
+.pic{
+    height: 250px;
+    width: 120px;
+}
